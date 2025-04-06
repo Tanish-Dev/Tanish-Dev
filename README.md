@@ -5,15 +5,34 @@
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
 
-- **Programming Languages**: Python 💻, C++ ⚡
-- **Web Development**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **AI/Machine Learning**: TensorFlow, Chatbot Development
-- **Other Skills**: Git, Data Structures & Algorithms, Building Scalable Projects, SQL, Arduino, Figma
+<table align="center">
+  <tr>
+    <td align="center"><b>Programming Languages</b></td>
+    <td>Python, C, C++</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web Development</b></td>
+    <td>HTML, CSS, JavaScript, React, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI/Machine Learning</b></td>
+    <td>TensorFlow, Chatbot Development</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Development Tools</b></td>
+    <td>Git, Arduino, Figma, SQL</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Core Skills</b></td>
+    <td>Data Structures & Algorithms, Building Scalable Projects</td>
+  </tr>
+</table>
 
 ## 🔧 Languages and Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
