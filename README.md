@@ -1,6 +1,5 @@
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Hey there! I am Tanish👋</h1>
 
-<h2 align="center">About Me</h2>
 <p align="center">I'm a passionate developer with a love for creating efficient and innovative solutions. I enjoy tackling complex problems and building applications that make a difference.</p>
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
