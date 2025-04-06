@@ -5,28 +5,11 @@
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Programming Languages</b></td>
-    <td>Python, C, C++</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Web Development</b></td>
-    <td>HTML, CSS, JavaScript, React, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI/Machine Learning</b></td>
-    <td>TensorFlow, Chatbot Development</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Development Tools</b></td>
-    <td>Git, Arduino, Figma, SQL</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Core Skills</b></td>
-    <td>Data Structures & Algorithms, Building Scalable Projects</td>
-  </tr>
-</table>
+- **Programming Languages**: Python, C, C++
+- **Web Development**: HTML, CSS, JavaScript, React, Tailwind CSS
+- **AI/Machine Learning**: TensorFlow, Chatbot Development
+- **Development Tools**: Git, Arduino, Figma, SQL
+- **Core Skills**: Data Structures & Algorithms, Building Scalable Projects
 
 ## 🔧 Languages and Tools
 
