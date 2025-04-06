@@ -1,32 +1,14 @@
-# Hey there! 👋
+<h1 align="center">Hey there! 👋</h1>
 
-## About Me
+<h2 align="center">About Me</h2>
+<p align="center">I'm a passionate developer with a love for creating efficient and innovative solutions. I enjoy tackling complex problems and building applications that make a difference.</p>
 
-I'm a passionate developer with a love for creating efficient and innovative solutions. I enjoy tackling complex problems and building applications that make a difference.
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
-## 🛠️ Skills & Technologies
-
-### Programming Languages
-
-- **Python** 💻
-- **C++** ⚡
-
-### Web Development
-
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Styling**: Tailwind CSS
-
-### AI/Machine Learning
-
-- TensorFlow
-- Keras
-- Chatbot Development
-
-### Other Skills
-
-- Version Control (Git)
-- Data Structures & Algorithms
-- Building Scalable Projects
+- **Programming Languages**: Python 💻, C++ ⚡
+- **Web Development**: HTML, CSS, JavaScript, React, Tailwind CSS
+- **AI/Machine Learning**: TensorFlow, Keras, Chatbot Development
+- **Other Skills**: Git, Data Structures & Algorithms, Building Scalable Projects
 
 ## 🔧 Languages and Tools
 
@@ -45,7 +27,7 @@ I'm a passionate developer with a love for creating efficient and innovative sol
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanish-Dev&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
 
@@ -58,4 +40,8 @@ I'm a passionate developer with a love for creating efficient and innovative sol
 
 ---
 
-⭐️ From [Tanish-Dev](https://github.com/YOUR_USERNAME_HERE)
+⭐️ From [Tanish-Dev](https://github.com/Tanish-Dev)
+
+```
+
+```
