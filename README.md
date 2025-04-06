@@ -49,7 +49,7 @@ I'm a passionate developer with a love for creating efficient and innovative sol
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanish-Dev&theme=dark)
 
 ## 📫 Connect With Me
 
