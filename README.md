@@ -9,7 +9,7 @@
 - **AI/Machine Learning**: TensorFlow, Chatbot Development
 - **Development Tools**: Git, Arduino, Figma, SQL
 - **Core Skills**: Data Structures & Algorithms, Building Scalable Projects
-- **link to my Website** : https://tanishbhavsar.netlif
+- **Link to my Website** : [https://tanishbhavsar.netlif](https://tanishbhavsar.netlify.app)
 ## 🔧 Languages and Tools
 
 <p align="left">
