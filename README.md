@@ -1,6 +1,7 @@
 <h1 align="center">Hey there! I am Tanish👋</h1>
 
 <p align="center">I'm a passionate developer with a love for creating efficient and innovative solutions. I enjoy tackling complex problems and building applications that make a difference.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-codess&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-codess" /> </p>
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
 
