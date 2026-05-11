@@ -1,0 +1,109 @@
+My skills 
+
+AI / ML
+
+* Agentic AI systems
+* Generative AI applications
+* AI chatbot development
+* Prompt engineering
+* Machine Learning fundamentals
+* Supervised learning
+* Feature engineering
+* Feature selection techniques
+    * Filter methods
+    * Wrapper methods
+    * Embedded methods
+* Data preprocessing
+* Data cleaning
+* Data normalization & scaling
+* Dataset balancing
+* Model evaluation
+* AI-powered web app development
+* AI API integration (like Gemini API)
+
+Programming
+
+* Python
+* Problem solving
+* Data structures & algorithms
+* LeetCode practice
+* Logical thinking for coding interviews
+
+Data Science
+
+* Data visualization
+* Matplotlib
+* Working with real-world datasets
+* Classification systems
+* IoT dataset analysis
+* Research-oriented ML workflows
+
+Web Development
+
+* Frontend development
+* Responsive web design
+* UI implementation
+* Website deployment
+* Dynamic product pages
+* CMS understanding
+* Payment gateway integration
+* Client website development
+* Business websites
+* Landing pages
+* Modern web UI design
+
+UI/UX Design
+
+* UI design
+* UX thinking
+* High-end visual aesthetics
+* Event website design
+* Modern layout composition
+* Branding-oriented interfaces
+* User-focused design thinking
+
+Startup / Business
+
+* Freelancing
+* Client communication
+* Pricing strategy
+* Website business operations
+* Service packaging
+* Technical consulting
+* Startup scaling mindset
+* Digital business transformation
+* Product thinking
+
+Content / Branding
+
+* LinkedIn personal branding
+* Tech community posting
+* Writing engaging tech content
+* Presentation & storytelling
+* Corporate-style communication
+* Social media positioning
+
+Research / Technical Interests
+
+* Space & astronomy
+* Astrophotography
+* AI robotics interest
+* Space exploration concepts
+* Human-centered future tech ideas
+
+Creative Skills
+
+* Cinematography
+* Guitar
+* Electric guitar covers
+* Aesthetic video production
+
+Soft Skills
+
+* Fast learner
+* Self-driven builder mindset
+* Leadership potential
+* Creative problem solving
+* Technical curiosity
+* Adaptability
+* Vision-oriented thinking
