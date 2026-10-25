@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Tanish-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-	<a href="https://tanishbhavsar.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-live-0e9aa7?style=flat&logo=vercel&logoColor=white" alt="portfolio" /></a>
+	<a href="https://tanishbhavsar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-live-0e9aa7?style=flat&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 
 ---
