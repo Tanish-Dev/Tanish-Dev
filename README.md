@@ -11,11 +11,11 @@
 
 ---
 
-## 🚀 About Me
+## <img src="icons/about.png" width="24" height="24" align="center" alt="" /> About Me
 
 I am a self-driven builder with a deep curiosity for technology. My interests span across **AI & Machine Learning**, **Web Development**, and **UI/UX Design**, blending high-end visual aesthetics with robust technical implementations. I am passionate about startup scaling, digital business transformation, and creating products that matter. When I'm not coding, you'll find me exploring astrophotography, playing the electric guitar, or diving into cinematography!
 
-## 🔧 Languages and Tools
+## <img src="icons/tools.png" width="24" height="24" align="center" alt="" /> Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -42,12 +42,12 @@ I am a self-driven builder with a deep curiosity for technology. My interests sp
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-## 🧠 Core Competencies
+## <img src="icons/competencies.png" width="24" height="24" align="center" alt="" /> Core Competencies
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🤖 AI, ML & Data Science</h3>
+      <h3><img src="icons/ai.png" width="20" height="20" align="center" alt="" /> AI, ML & Data Science</h3>
       <ul>
         <li><b>Generative AI & LLMs:</b> Agentic AI systems, AI chatbot development, Prompt engineering, API integration (Gemini)</li>
         <li><b>Machine Learning:</b> Supervised learning, Feature engineering, Model evaluation, Classification systems</li>
@@ -55,7 +55,7 @@ I am a self-driven builder with a deep curiosity for technology. My interests sp
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>💻 Programming & Web Dev</h3>
+      <h3><img src="icons/programming.png" width="20" height="20" align="center" alt="" /> Programming & Web Dev</h3>
       <ul>
         <li><b>Software Engineering:</b> Python, Data structures & algorithms, LeetCode problem solving, Object-Oriented design</li>
         <li><b>Frontend & UI:</b> Responsive web design, Modern web UI implementation, Dynamic product pages</li>
@@ -65,7 +65,7 @@ I am a self-driven builder with a deep curiosity for technology. My interests sp
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>🤝 Business & Operations</h3>
+      <h3><img src="icons/business.png" width="20" height="20" align="center" alt="" /> Business & Operations</h3>
       <ul>
         <li><b>Startup Mindset:</b> Digital business transformation, Technical consulting, Product thinking</li>
         <li><b>Freelancing:</b> Client communication, Pricing strategy, Service packaging</li>
@@ -73,7 +73,7 @@ I am a self-driven builder with a deep curiosity for technology. My interests sp
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>🎨 UI/UX & Creative</h3>
+      <h3><img src="icons/design.png" width="20" height="20" align="center" alt="" /> UI/UX & Creative</h3>
       <ul>
         <li><b>Design Thinking:</b> High-end visual aesthetics, Event website design, Modern layout composition</li>
         <li><b>Creative Output:</b> Cinematography, Astrophotography, Video production, Electric guitar</li>
@@ -83,17 +83,17 @@ I am a self-driven builder with a deep curiosity for technology. My interests sp
   </tr>
 </table>
 
-## 📫 Connect With Me
+## <img src="icons/connect.png" width="24" height="24" align="center" alt="" /> Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tanish-bhavsar-a96354286/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Tanish_dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-## 🔥 GitHub Activity
+## <img src="icons/activity.png" width="24" height="24" align="center" alt="" /> GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanish-Dev&theme=dark)
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/Tanish-Dev">Tanish-Dev</a></p>
+<p align="center"><img src="icons/star.png" width="16" height="16" align="center" alt="" /> From <a href="https://github.com/Tanish-Dev">Tanish-Dev</a></p>
